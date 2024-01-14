@@ -1,7 +1,7 @@
 # dio_desafios
 DIO - Desafios de Projeto - Programação do Zero
 
-# 1 - **Desafio Classificador de nível de Herói** 🎯
+# 1 - **Desafio Classificador de nível de Herói** 🎯 📊
 
 ## Objetivo
 
@@ -23,7 +23,7 @@ Ao final deve se exibir uma mensagem:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#  2 - **Calculadora de partidas Rankeadas** 🎯
+#  2 - **Calculadora de partidas Rankeadas** 🎯 🧮
 
 ## Objetivo:
 
@@ -45,7 +45,7 @@ Ao final deve se exibir uma mensagem:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 3 - Escrevendo as classes de um Jogo 🎯
+# 3 - Escrevendo as classes de um Jogo 🎯 🎮
 
 
 ## Objetivo:
